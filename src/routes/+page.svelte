@@ -21,7 +21,7 @@
 			</a>
 		</div>
 		<div class="flex gap-3">
-			<a href="https://www.facebook.com/lmautomatizaciondeportones" target="_blank">
+			<a href="https://www.facebook.com/lm.automatic.ok" target="_blank">
 				<Icon icon="facebook" classes="fill-white" />
 			</a>
 			<a href="https://www.instagram.com/lm.automatic.ok" target="_blank">
